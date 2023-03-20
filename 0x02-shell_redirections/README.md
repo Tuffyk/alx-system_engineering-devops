@@ -5,3 +5,4 @@ Task 3. Display the content of two files passwd and hosts
 Task 4. Display the last 10 lines of the file passwd
 Task 5. display the first 10 lines of the file passwd
 Task 6. Displays the third line of the file iacta
+Task 7. Creates a file wit the given name and content
