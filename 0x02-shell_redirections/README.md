@@ -8,3 +8,4 @@ Task 6. Displays the third line of the file iacta
 Task 7. Creates a file wit the given name and content
 Task 8. writes the result of the command ls -la
 Task 9. duplicates the last line of the file iacta
+Task 10. delete all regular files not directories with .js extension in current directory and all its subfolders
