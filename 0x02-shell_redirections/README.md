@@ -19,3 +19,4 @@ Task 17. display all the lines in the file /etc/passwd not containing the patter
 Task 18. display all lines of the file /etc/ssh/sshd_config starting with a letter
 Task 19. replace A and C from input to Z and e respectively
 Task 20. removes all letters c and C from input
+Task 21. reverse input
