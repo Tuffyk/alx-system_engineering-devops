@@ -10,3 +10,4 @@ Task 8. writes the result of the command ls -la
 Task 9. duplicates the last line of the file iacta
 Task 10. delete all regular files not directories with .js extension in current directory and all its subfolders
 Task 11. Counts the number of directories and sub-directories in the current directory
+Task 12. displays the 10 newest files in hte current directory sorted from the newest to the oldest
