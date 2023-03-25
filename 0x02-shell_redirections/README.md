@@ -16,3 +16,4 @@ Task 14. display lines containing the pattern "root" from the file passwd
 Task 15. display the number of lines that contain the pattern "bin" in the file /etc/passwd
 Task 16. display lines containing the patern "root" and 3 lines after them in the file /etc/passwd
 Task 17. display all the lines in the file /etc/passwd not containing the pattern "bin"
+Task 18. display all lines of the file /etc/ssh/sshd_config starting with a letter
