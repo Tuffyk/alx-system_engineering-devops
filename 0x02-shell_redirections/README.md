@@ -13,3 +13,4 @@ Task 11. Counts the number of directories and sub-directories in the current dir
 Task 12. displays the 10 newest files in hte current directory sorted from the newest to the oldest
 Task 13. takes a list of words as input and prints only words that appear exactly once
 Task 14. display lines containing the pattern "root" from the file passwd
+Task 15. display the number of lines that contain the pattern "bin" in the file /etc/passwd
