@@ -6,3 +6,4 @@ Task 4. list environnement variables
 Task 5. lists all local variables and environnement variables and functions
 Task 6. create a new local variable name BEST value School
 Task 7. create a new global variable name BEST value School
+Task 8. prints the result of the addition of 128 with the value stored in the environnement variable TRUEKNOWLEDGE, followed by a new line
