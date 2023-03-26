@@ -8,3 +8,4 @@ Task 6. create a new local variable name BEST value School
 Task 7. create a new global variable name BEST value School
 Task 8. prints the result of the addition of 128 with the value stored in the environnement variable TRUEKNOWLEDGE, followed by a new line
 Task 9. print the result of PWER divided by DIVIDE followed by a new line
+Task 10. display the result of BREATH to the power LOVE
