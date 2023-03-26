@@ -12,3 +12,4 @@ Task 10. display the result of BREATH to the power LOVE
 Task 11. convert a number from base 2 to base 10
 Task 12. print all possible combinations of two letters, except 00
 Task 13. print a number with two decimal places
+Task 14. converts a number from base 10 to base 16
